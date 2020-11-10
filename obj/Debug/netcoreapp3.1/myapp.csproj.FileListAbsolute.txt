@@ -1,0 +1,12 @@
+/Users/haiden/myapp/bin/Debug/netcoreapp3.1/myapp.deps.json
+/Users/haiden/myapp/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.json
+/Users/haiden/myapp/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.dev.json
+/Users/haiden/myapp/bin/Debug/netcoreapp3.1/myapp.dll
+/Users/haiden/myapp/bin/Debug/netcoreapp3.1/myapp.pdb
+/Users/haiden/myapp/obj/Debug/netcoreapp3.1/myapp.csprojAssemblyReference.cache
+/Users/haiden/myapp/obj/Debug/netcoreapp3.1/myapp.AssemblyInfoInputs.cache
+/Users/haiden/myapp/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
+/Users/haiden/myapp/obj/Debug/netcoreapp3.1/myapp.csproj.CoreCompileInputs.cache
+/Users/haiden/myapp/obj/Debug/netcoreapp3.1/myapp.dll
+/Users/haiden/myapp/obj/Debug/netcoreapp3.1/myapp.pdb
+/Users/haiden/myapp/obj/Debug/netcoreapp3.1/myapp.genruntimeconfig.cache
